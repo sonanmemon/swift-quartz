@@ -13,7 +13,7 @@ sections:
   - block: 
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: me
+      username: 
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
