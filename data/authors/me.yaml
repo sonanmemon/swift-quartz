@@ -34,64 +34,16 @@ links:
 
 interests:
   - Monetary Theory and Policy.
-  - Economic Sociology of Islam and Ethnic Frictions In Labor Markets.
+  - Economic Sociology of Islamic Practices.
+  - Ethnic Frictions In Labor Markets.
 
-education:
-  - degree: PhD Economics
-    institution: University of Oregon
-    start: 2024-09-01
-    end: 2029-06-30
-    summary: |
-      
-    button:
-      icon: hero/arrow-down-tray
-  - degree: MPhil Economics
-    institution: University of Oxford
-    start: 2018-10-01
-    end: 2020-07-31
-  - degree: BSc Economics and Mathematics
-    institution: LUMS
-    start: 2014-09-01
-    end: 2018-06-31
 
-experience:
-  - role: Research Fellow
-    org: PIDE, Islamabad
-    start: 2021
-    end: 2024
-    summary: |
-      .
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  
-
-#skills:
-  #- name: Technical Skills
-   # items:
-     # - label: Python
-      #  level: 5
-      #- label: Machine Learning
-      #  level: 5
-     # - label: Cloud Computing
-      #  level: 4
-  
 
 languages:
   - name: English
-    level: 5
     label: Fluent
   - name: Urdu
-    level: 5
     label: Fluent
   - name: Sindhi
-    level: 4
     label: Native
 
-#awards:
-  #- title: Best Paper Award
-     #awarder: NeurIPS
-    #date: "2022-12-01"
-    #summary: Awarded for groundbreaking work on efficient training of large models.
-    #icon: hero/trophy
