@@ -279,13 +279,19 @@ hugoblox:
   # PRO
   # Pro subscription features and affiliate program
   # ────────────────────────────────────────────────────────────────────────────
+
   pro:
+  # ... other params ...
+  license:
     # Hide "Powered by HugoBlox" attribution
     # Requires: Pro subscription to support HugoBlox via alternative means
     # Note: Even with Pro, you can keep this false to support open source!
     # Get Pro: https://hugoblox.com/pro
-    hide_attribution: false
-    
+    email: "sonanahmed8@gmail.com"
+    key: "AE74C854-2AF3-4390-8963-D1933EB1D5F9"
+    hide_attribution: true
+
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
+
