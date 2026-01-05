@@ -1,11 +1,9 @@
 ---
-title: "An example preprint / working paper"
-authors:
+title: "Income Inequality and Macroeconomic Instability"
+authors: Memon, S and Qureshi, A I.
 - me
-date: "2019-04-07T00:00:00Z"
+date: "2021-09-07T00:00:00Z"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,13 +14,11 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper examines the relationship between macroeconomic instability, as measured by the variance of inflation and output, and income inequality. We develop a panel data set consisting of 61 developed and developing economies for 1990–2019. Our results highlight a positive relationship between past inflation variance and subsequent inequality. We find that this relationship is nonexistent in developed countries but is strong for developing economies. Developing countries that have adopted an inflation targeting (IT) regime are insulated from the regressive effect of inflation volatility. From the point of view of achieving an even income distribution, IT may be consistent with better equity and efficiency outcomes simultaneously. The main findings are robust to a rich set of controls, alternative measures of volatility and inequality, various subsample checks, and dynamic panel specifications.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Price Stability and Income Inequality.
 
 featured: true
 
