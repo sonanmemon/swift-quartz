@@ -1,9 +1,8 @@
 ---
-title: "Income Inequality and Macroeconomic Instability"
+title: "The Desirability of Economic Inequality: A Discourse"
 authors:
   - "Memon, S"
-  - "Qureshi, A I"
-date: "2021-05-01T00:00:00Z"
+date: "2022-05-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,10 +13,10 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper examines the relationship between macroeconomic instability, as measured by the variance of inflation and output, and income inequality. We develop a panel data set consisting of 61 developed and developing economies for 1990–2019. Our results highlight a positive relationship between past inflation variance and subsequent inequality. We find that this relationship is nonexistent in developed countries but is strong for developing economies. Developing countries that have adopted an inflation targeting (IT) regime are insulated from the regressive effect of inflation volatility. From the point of view of achieving an even income distribution, IT may be consistent with better equity and efficiency outcomes simultaneously. The main findings are robust to a rich set of controls, alternative measures of volatility and inequality, various subsample checks, and dynamic panel specifications."
+abstract: "I critically examine the burgeoning literature on inequality in economics. I report major empirical stylized facts on wealth/income inequality in the world and specifically in Pakistan. I also discuss arguments presented by many economists and some philosophers regarding the undesirability of wealth and income inequality and policies recommended to reduce inequality. I present several arguments in defense of economic inequality by establishing its role in creating incentives, economic growth, and urbanization. I also argue that many of the policies proposed for ejecting inequality from the society impede on individual and social freedoms. Moreover, there are theoretical and philosophical conundrums regarding how to share the pie of wealth and income which stifle attempts to redistribute. Lastly, I ask the why question by interrogating the relevance of inequality, making the case that absolute poverty, pain and suffering are the relevant curses which have to be excommunicated from an ideal society rather than the distribution of wealth and income."
 
 tags:
-  - "Price Stability and Income Inequality."
+  - "The Desirability of Income Inequality. Philosophy, Welfare and Economics."
 
 featured: true
 
