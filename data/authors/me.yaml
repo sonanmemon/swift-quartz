@@ -9,8 +9,6 @@ name:
   pronunciation: ''  
   pronouns: he/him
 postnominals:
-  - PhD Student
-  - MPhil Economics
 status:
   icon: "☕️"
 role: PhD Econ Student
@@ -38,6 +36,6 @@ links:
     url: https://pk.linkedin.com/in/sonan-memon
 
 research_interests:
-  - Monetary Theory and Policy
-  - Economic Sociology of Islamic Practices
-  - Ethnic Frictions in Labor Markets
+  - Monetary Theory and Policy.
+  - Economic Sociology of Islamic Practices.
+  - Ethnic Frictions in Labor Markets.
