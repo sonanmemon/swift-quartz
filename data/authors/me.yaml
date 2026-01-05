@@ -13,7 +13,7 @@ status:
   icon: "☕️"
 role: PhD Econ Student
 bio: |
-  Sonan Memon is a 2nd-year PhD student in Economics at the University of Oregon. He holds a MPhil in Economics from the University of Oxford (Somerville College).
+  Hello! Sonan is a 2nd-year PhD student in Economics at the University of Oregon. 
   
   
 
@@ -42,3 +42,16 @@ interests:
   - Islamic Norms and Labor Market Productivity.
 
 
+education:
+  - degree: PhD Economics
+    institution: University of Oregon
+    start: 2024-09-29
+    end: 2029-06-30
+  - degree: MPhil Economics
+    institution: University of Oxford.
+    start: 2018-09-01
+    end: 2020-06-31
+  - degree: BSc Economics and Mathematics
+    institution: LUMS (Lahore).
+    start: 2014-09-01
+    end: 2018-06-31
