@@ -1,7 +1,7 @@
 ---
 # Homepage configuration
-title: 'S Memon'
-date: 2026-01-04
+title: 'Sonan Memon'
+date: 2025-01-04
 type: landing
 
 design:
@@ -13,14 +13,17 @@ sections:
   - block: resume-biography-3
     content:
       username: me
-      text: 'Hello! I am a second year PhD Econ Student at the University of Oregon.' # Add your intro
+      text: 'Hello! I am a second year PhD Econ Student at the University of Oregon.'
       button:
         text: Download CV
         url: uploads/CV-SMEMON-Dec-2025.pdf
       headings:
         about: 'About Me'
-        education: 'Education'
-        interests: 'Interests'
+        education: |
+          University of Oregon – PhD (Ongoing)
+          University of Oxford – MPhil
+          LUMS – BSc
+        interests: 'Monetary Theory and Policy; Labor Market Consequences of Ethnic Conflict; Islamic Norms and Labor Market Productivity.'
     design:
       background:
         gradient_mesh:
@@ -35,7 +38,6 @@ sections:
   - block: markdown
     content:
       title: 'Welcome'
-      subtitle: ''
       text: |-
         Here you can find my publications and other academic work.
     design:
@@ -58,11 +60,10 @@ sections:
   - block: collection
     content:
       title: Other Research Work
-      text: ''
       filters:
         folders:
           - publications
-        exclude_featured: false
     design:
       view: citation
+      columns: 1
 ---
