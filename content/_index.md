@@ -13,17 +13,14 @@ sections:
   - block: resume-biography-3
     content:
       username: me
-      text: 'Hello! I am a second year PhD Econ Student at the University of Oregon.'
+      text: ''
       button:
         text: Download CV
         url: uploads/CV-SMEMON-Dec-2025.pdf
       headings:
-        about: 'About Me'
-        education: |
-          University of Oregon – PhD (Ongoing)
-          University of Oxford – MPhil
-          LUMS – BSc
-        interests: 'Monetary Theory and Policy; Labor Market Consequences of Ethnic Conflict; Islamic Norms and Labor Market Productivity.'
+        about: ''
+        education: ''
+        interests: ''
     design:
       background:
         gradient_mesh:
