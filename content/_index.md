@@ -48,7 +48,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Job Market Papers
       filters:
         folders:
           - publications
@@ -58,7 +58,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Published Papers
       text: ''
       filters:
         folders:
@@ -68,19 +68,6 @@ sections:
       view: citation
   - block: collection
     id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: blog
       # Choose how many pages you would like to display (0 = all pages)
