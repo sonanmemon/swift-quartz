@@ -2,7 +2,7 @@
 title: "Income Inequality and Macroeconomic Instability"
 authors: Memon, S and Qureshi, A I.
 - me
-date: "2021-09-07T00:00:00Z"
+date: "2021-05-01T00:00:00Z"
 
 
 # Publication type.
@@ -14,7 +14,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: This paper examines the relationship between macroeconomic instability, as measured by the variance of inflation and output, and income inequality. We develop a panel data set consisting of 61 developed and developing economies for 1990–2019. Our results highlight a positive relationship between past inflation variance and subsequent inequality. We find that this relationship is nonexistent in developed countries but is strong for developing economies. Developing countries that have adopted an inflation targeting (IT) regime are insulated from the regressive effect of inflation volatility. From the point of view of achieving an even income distribution, IT may be consistent with better equity and efficiency outcomes simultaneously. The main findings are robust to a rich set of controls, alternative measures of volatility and inequality, various subsample checks, and dynamic panel specifications.
+abstract: "This paper examines the relationship between macroeconomic instability, as measured by the variance of inflation and output, and income inequality. We develop a panel data set consisting of 61 developed and developing economies for 1990–2019. Our results highlight a positive relationship between past inflation variance and subsequent inequality. We find that this relationship is nonexistent in developed countries but is strong for developing economies. Developing countries that have adopted an inflation targeting (IT) regime are insulated from the regressive effect of inflation volatility. From the point of view of achieving an even income distribution, IT may be consistent with better equity and efficiency outcomes simultaneously. The main findings are robust to a rich set of controls, alternative measures of volatility and inequality, various subsample checks, and dynamic panel specifications."
 
 
 tags:
