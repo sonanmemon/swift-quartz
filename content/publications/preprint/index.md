@@ -1,6 +1,6 @@
 ---
 title: "Income Inequality and Macroeconomic Instability"
-authors: Memon, S and Qureshi, A I.
+authors: "Memon, S and Qureshi, A I"
 - me
 date: "2021-05-01T00:00:00Z"
 
