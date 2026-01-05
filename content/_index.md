@@ -13,7 +13,7 @@ sections:
   - block: resume-biography-3
     content:
       username: me
-      text: 'Hello! I am Sonan. Welcome to my personal site.' # Add your intro
+      text: 'Hello! I am a second year PhD Econ Student at the University of Oregon.' # Add your intro
       button:
         text: Download CV
         url: uploads/CV-SMEMON-Dec-2025.pdf
@@ -35,7 +35,7 @@ sections:
   - block: markdown
     content:
       title: 'Welcome'
-      subtitle: 'Explore my work and research'
+      subtitle: ''
       text: |-
         Here you can find my publications and other academic work.
     design:
@@ -57,8 +57,8 @@ sections:
   # Published Papers Collection
   - block: collection
     content:
-      title: Published Papers
-      text: 'A curated list of my published work.'
+      title: Other Research Work
+      text: ''
       filters:
         folders:
           - publications
