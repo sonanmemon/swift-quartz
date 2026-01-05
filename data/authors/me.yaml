@@ -5,20 +5,20 @@ name:
   display: Sonan Memon
   given: Sonan
   family: Memon
-  alternate: ''  
-  pronunciation: ''  
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
 status:
   icon: "☕️"
 role: PhD Econ Student
-bio: |
-  Sonan Memon is a 2nd-year PhD Economics Student at the University of Oregon. 
-  He has an MPhil in Economics from the University of Oxford and a BSc in Economics 
-  and Mathematics from LUMS (Lahore), Pakistan.
+description: |
+  Sonan Memon is a 2nd-year PhD student in Economics at the University of Oregon.  
+  He holds an MPhil in Economics from the University of Oxford and a BSc in Economics and Mathematics from LUMS (Lahore), Pakistan.
 
-  He has worked at PIDE, Islamabad, as a research consultant, 
-  at IBA, Karachi, as a Lecturer, and with the Asian Development Bank (ADB) as a consultant.
+  He has worked as a research consultant at PIDE, Islamabad, as a Lecturer at IBA, Karachi, and as a consultant with the Asian Development Bank (ADB).
+
+research_interests: "Monetary Theory and Policy; Economic Sociology of Islamic Practices; Ethnic Frictions in Labor Markets"
 
 affiliations:
   - name: University of Oregon
@@ -34,8 +34,3 @@ links:
     url: https://github.com/sonanmemon
   - icon: brands/linkedin
     url: https://pk.linkedin.com/in/sonan-memon
-
-research_interests:
-  - Monetary Theory and Policy.
-  - Economic Sociology of Islamic Practices.
-  - Ethnic Frictions in Labor Markets.
