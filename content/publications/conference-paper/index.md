@@ -1,22 +1,15 @@
 ---
-title: 'An example conference paper'
+title: 'High Frequency Inflation Forecasting: A Probabilstic Autoregressive Model'
 
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - me
-  - Robert Ford
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-07-01T00:00:00Z'
 
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,13 +20,11 @@ publication_types: ['paper-conference']
 publication: In *Hugo Blox Builder Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: "I begin by motivating the utility of high-frequency inflation estimation and reviewing recent work done at the State Bank of Pakistan for inflation forecasting and now-casting GDP using machine learning (ML) tools. I also present stylised facts about the structure of historical and especially recent inflation trends in Pakistan. However, since the available data and already used methods cannot achieve high frequency forecasting, I discuss three novel techniques from recent literature, including web scrapping, scanner data and synthetic data. Due to a lack of access to Pakistan’s scanner and web-scrapped data, I generate synthetic data using generative ML models (Gaussian Copula and PAR models) and numerical analysis (cubic spline interpolation) methods. I use cubic splines to estimate the monthly inflation rate from quarterly data and unknown high frequency, weekly inflation rate from actual monthly data. Meanwhile, I use a probabilistic autoregressive ML model to forecast future short-run inflation for Pakistan from 2020 to 2023. I evaluate the accuracy of ML forecasts by comparing them with forecast error variances and predictions from conventional reduced form vector autoregressive models (VAR)."
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - Time Series Econometrics. High-Frequency Forecasting. Interpolation. 
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,16 +36,6 @@ hugoblox:
 
 # Custom links
 links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/kit
-  - type: dataset
-    url: https://github.com/HugoBlox/kit
-  - type: slides
-    url: https://www.slideshare.net/
-  - type: source
-    url: https://github.com/HugoBlox/kit
   - type: video
     url: https://youtube.com
 
