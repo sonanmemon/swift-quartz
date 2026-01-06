@@ -24,7 +24,7 @@ featured: true
 links:
   - type: custom
     label: "Custom Link"
-    url: https://onlinelibrary.wiley.com/doi/abs/10.1111/rode.12730
+    url: https://sonanmemon.github.io/files/Inequality.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
