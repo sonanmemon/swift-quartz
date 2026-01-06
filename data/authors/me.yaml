@@ -10,7 +10,7 @@ name:
   pronouns: he/him
 postnominals: null
 status:
-  icon: "☕️"
+  icon: ""
 role: PhD Econ Student
 bio: |
   Hello! I am a 2nd-year PhD student in Economics at the University of Oregon.
@@ -18,7 +18,7 @@ bio: |
 affiliations:
   - name: University of Oregon
     url: https://socialsciences.uoregon.edu/economics
-    logo: /static/uploads/logo.png
+    icon: /static/uploads/logo.png
 
 links:
   - icon: at-symbol
