@@ -17,7 +17,7 @@ bio: |
 
 affiliations:
   - name: University of Oregon
-    url: https://socialsciences.uoregon.edu/economics
+    website: https://socialsciences.uoregon.edu/economics
 
 links:
   - icon: at-symbol
@@ -37,7 +37,7 @@ interests:
   - Primary: Applied Monetary Economics and International Financial Networks.
   - Secondary: Ethnic Conflict, Islamic Norms and Labor Markets.
 
-  education:
+education:
   - degree: PhD Economics
     institution: University of Oregon
     start: 2024-09-30
