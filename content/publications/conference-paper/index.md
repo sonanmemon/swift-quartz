@@ -42,7 +42,7 @@ links:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/clear-hour-glass-on-table-JEKwQbMw7Fo)'
   focal_point: ''
   preview_only: false
 
