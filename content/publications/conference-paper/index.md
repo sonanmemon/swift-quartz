@@ -29,6 +29,11 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
+links:
+  - type: custom
+    label: "Custom Link"
+    url: https://github.com/sonanmemon/High-Frequency-Inflation-Forecasting/blob/main/working-paper-inflationforecasting.pdf
+
 
 
 # Featured image
