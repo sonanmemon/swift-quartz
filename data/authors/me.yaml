@@ -13,7 +13,7 @@ status:
   icon: "☕️"
 role: PhD Econ Student
 bio: |
-  Hello! Sonan is a 2nd-year PhD student in Economics at the University of Oregon.
+  Hello! I am a 2nd-year PhD student in Economics at the University of Oregon.
 
 affiliations:
   - name: University of Oregon
@@ -34,19 +34,18 @@ links:
     label: LinkedIn
 
 interests:
-  - Monetary Theory and Policy
-  - Ethnic Conflict and Labor Markets
-  - Islamic Norms and Labor Market Productivity
+  - Primary: Applied Monetary Economics and International Financial Networks.
+  - Secondary: Ethnic Conflict, Islamic Norms and Labor Markets.
 
 education:
   - degree: PhD Economics
     institution: University of Oregon
-    start: 2024-09-29
+    start: 2024-09-30
     end: 2029-06-30
   - degree: MPhil Economics
     institution: University of Oxford
-    start: 2018-09-01
-    end: 2020-06-30
+    start: 2018-10-30
+    end: 2020-07-30
   - degree: BSc Economics and Mathematics
     institution: LUMS (Lahore)
     start: 2014-09-01
