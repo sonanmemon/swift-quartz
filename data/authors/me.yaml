@@ -37,9 +37,10 @@ interests:
   - Primary: Applied Monetary Economics and International Financial Networks.
   - Secondary: Ethnic Conflict, Islamic Norms and Labor Markets.
 
-education:
+  education:
   - degree: PhD Economics
     institution: University of Oregon
+    organization: university-of-oregon
     start: 2024-09-30
     end: 2029-06-30
   - degree: MPhil Economics
