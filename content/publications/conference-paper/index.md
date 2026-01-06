@@ -37,7 +37,7 @@ hugoblox:
 # Custom links
 links:
   - type: video
-    url: https://youtube.com
+    url: 
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
