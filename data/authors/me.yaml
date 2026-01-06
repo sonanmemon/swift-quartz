@@ -18,6 +18,7 @@ bio: |
 affiliations:
   - name: University of Oregon
     url: https://socialsciences.uoregon.edu/economics
+    logo: /static/uploads/logo.png
 
 links:
   - icon: at-symbol
