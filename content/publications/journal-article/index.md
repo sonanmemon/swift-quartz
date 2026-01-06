@@ -1,10 +1,8 @@
 ---
 title: "Income Inequality and Macroeconomic Instability"
 authors:
-  - family: "Memon"
-    given: "S"
-  - family: "Qureshi"
-    given: "A I"
+  - me
+  -  "and Qureshi, Irfan"
 date: "2021-05-01T00:00:00Z"
 
 # Publication type.
