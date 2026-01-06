@@ -1,7 +1,7 @@
 ---
 title: "The Desirability of Economic Inequality: A Discourse"
 authors:
-  - "Memon, S"
+  - me
 date: "2022-05-01T00:00:00Z"
 
 # Publication type.
